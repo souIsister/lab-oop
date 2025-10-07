@@ -2,7 +2,7 @@
 
 A collection of Python laboratory assignments from my Computer Science coursework at City College of Angeles.
 
-## 📁 Projects Overview
+## 🐍 Laboratory Projects
 
 ### Lab 1: Input/Output & String Formatting
 **File:** `lab1.py`
