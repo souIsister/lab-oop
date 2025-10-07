@@ -21,7 +21,6 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 ├── lab6/
 │   ├── bankAccount.py
 │   └── testMoney.py
-├── testUser.py
 └── README.md
 ```
 ### Lab 1: Basic I/O & Formatting
