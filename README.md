@@ -191,11 +191,14 @@ Labs 5-6 use **multiple related files** with imports:
 ## ⛓️ Repository Structure
 
 ```
-python-lab-projects/
-├── lab1.py
-├── lab2.py
-├── lab3.py
-├── lab4.py
+├── lab1/
+│   └── lab1.py
+├── lab2/
+│   └── lab2.py
+├── lab3/
+│   └── lab3.py
+├── lab4/
+│   └── lab4.py
 ├── lab5/
 │   ├── main.py
 │   └── testUser.py
