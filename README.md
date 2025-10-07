@@ -2,7 +2,7 @@
 
 A collection of Python laboratory assignments from my Computer Science coursework at City College of Angeles.
 
-## 🐍 Laboratory Projects
+## 🐍 Projects Overview
 
 ### Lab 1: Input/Output & String Formatting
 **File:** `lab1.py`
@@ -95,29 +95,68 @@ Work with dictionaries to create a simple shopping/ordering system.
 
 ---
 
-## 📝 How These Labs Work
+### Lab 5: Object-Oriented Programming - User Class
+**Files:** `lab5/main.py`, `lab5/testUser.py`
 
-Each program is **interactive and command-line based**. Users run the program in their terminal/console and interact by typing inputs. For example:
+Introduction to classes and object-oriented programming with a social media user system.
 
-- **Lab 1** asks for user input and displays formatted output
-- **Lab 2** asks how many seconds for countdown, or rows/columns for the table
-- **Lab 3** displays a menu and lets you add/search/remove games
-- **Lab 4** shows a menu of items and lets you build an order
+**Concepts Covered:**
+- Class definition and constructors (`__init__`)
+- Instance methods and attributes
+- Object instantiation
+- Lists of objects
+- Module imports and file organization
+
+**Files:**
+- **main.py** - Defines the `User` class with:
+  - Attributes: first name, last name, followers, friends list
+  - Method: `describe()` - displays user information
+  
+- **testUser.py** - Test file that imports and uses the `User` class to:
+  - Create user profiles interactively
+  - Store multiple user records
+  - Display all user information
+  - Count total members
+
+**Features:**
+- Create user profiles with name, follower count, and friends list
+- Store multiple user records in a list
+- Display user information in a formatted way
+- Interactive menu-driven input system
+- Count total members
 
 ---
 
-## 🛠 Requirements
+### Lab 6: Object-Oriented Programming - Money Class
+**Files:** `lab6/bankAccount.py`, `lab6/testMoney.py`
 
-- Python 3.x
-- No external libraries required (all use standard library)
-- Run from command line/terminal
+Learn about class constructors with default parameters and flexible parameter handling.
 
-## 💻 How to Use These Files
+**Concepts Covered:**
+- Class definition with default parameters
+- Type hints in Python
+- Constructor overloading (using default values)
+- Object creation with different parameter combinations
+- Module imports and testing
 
-1. **Clone or download** the repository
-2. **Navigate** to the project directory
-3. **Run** any file using: `python filename.py`
-4. **Follow** the on-screen prompts
+**Files:**
+- **bankAccount.py** - Defines the `Money` class with:
+  - Attributes: amount (default: 0), denomination (default: "Unknown")
+  - Type hints for better code documentation
+  
+- **testMoney.py** - Test file that demonstrates:
+  - Creating `Money` objects with no parameters
+  - Creating `Money` objects with amount only
+  - Creating `Money` objects with amount and denomination
+  - Shows how default parameters work
+
+**Features:**
+- Create money objects with flexible parameters
+- Default values for amount and denomination
+- Multiple ways to invoke the constructor
+- Shows OOP principles with simple practical example
+
+---
 
 ## 📚 Learning Outcomes
 
@@ -128,7 +167,53 @@ After working through these labs, you'll understand:
 - ✅ Control flow structures (loops, conditionals)
 - ✅ Data structures (lists, dictionaries)
 - ✅ Menu-driven application design
-- ✅ User interaction and validation
+- ✅ Object-Oriented Programming (OOP) basics
+- ✅ Classes, constructors, and methods
+- ✅ Module imports and code organization
+- ✅ Type hints and documentation
+
+## 📝 How These Labs Work
+
+Labs 1-4 are **interactive command-line programs**. Users run the program in their terminal/console and interact by typing inputs:
+
+- **Lab 1** asks for user input and displays formatted output
+- **Lab 2** asks how many seconds for countdown, or rows/columns for the table
+- **Lab 3** displays a menu and lets you add/search/remove games
+- **Lab 4** shows a menu of items and lets you build an order
+
+Labs 5-6 use **multiple related files** with imports:
+
+- **Lab 5** imports the `User` class from `main.py` into `testUser.py` to test functionality
+- **Lab 6** imports the `Money` class from `bankAccount.py` into `testMoney.py` to demonstrate constructor flexibility
+
+---
+
+## ⛓️ Repository Structure
+
+```
+python-lab-projects/
+├── lab1.py
+├── lab2.py
+├── lab3.py
+├── lab4.py
+├── lab5/
+│   ├── main.py
+│   └── testUser.py
+├── lab6/
+│   ├── bankAccount.py
+│   └── testMoney.py
+└── README.md
+```
+
+---
+
+## 🛠 Requirements
+
+- Python 3.x
+- No external libraries required (all use standard library)
+- Run from command line/terminal
+
+---
 
 ## 👤 Author
 
