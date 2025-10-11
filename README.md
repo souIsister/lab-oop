@@ -15,8 +15,12 @@ lab-oop/
 │   ├── lab4/main.py
 │   ├── lab5/main.py
 │   └── lab6/
-│       ├── task1/main.py
-│       └── task2/main.py
+│       ├── a/
+│       │   ├── bankAccount.py
+│       │   └── testMoney.py
+│       └── b/
+│           ├── student.py
+│           └── testStudent.py
 └── finals/
 ```
 ### Midterm Lab 1: Basic Input-Output/Operators/Escape sequence and Placeholders 
