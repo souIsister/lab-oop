@@ -23,38 +23,41 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 │   └── testMoney.py
 └── README.md
 ```
-### Lab 1: Basic I/O & Formatting
+### Midterm Lab 1: Basic Input-Output/Operators/Escape sequence and Placeholders 
 **File Location:** `lab1/main.py`
-- User input/output operations
-- String formatting with f-strings
-- Type casting and ASCII art
+- Use of print statement
+- Use of Escape Sequence
+- Input Operations
+- Use of placeholders with % specifier
+- Type Casting
 
-### Lab 2: Loops & Control Flow  
+### Midterm Lab 2: Using Loops and Selection statements 
 **File Location:** `lab2/main.py`
 - Countdown timer with real-time display
 - Dynamic multiplication table generator
 - Time module integration
+- Nested For Loop
 
-### Lab 3: List Management
+### Midterm Lab 3: List Collections
 **File Location:** `lab3/main.py`
-- Interactive game collection system
+- Interactive game collection system using list collection 
 - Add, search, remove, and sort operations
 - Menu-driven interface
 
-### Lab 4: Dictionary System
+### Midterm Lab 4: Dictionary Collections
 **File Location:** `lab4/main.py`
 - Shopping cart with item dictionary
 - Order tracking and price calculation
 - Formatted currency output
 
-### Lab 5: User Class System
+### Midterm Lab 5: Creating Class and Instantiating Objects
 **File Location:** `lab5/main.py`, `lab5/testUser.py`
-- Object-Oriented Programming with User class
 - Profile creation and management
 - Multiple user storage
+- Unit Testing
 
-### Lab 6: Money Class
+### Midterm Lab 6: Constructor Activity
 **File Location:** `lab6/bankAccount.py`, `lab6/testMoney.py`
-- Class constructors with default parameters
+- Class constructors
 - Flexible object creation
-- Type hints implementation
+- Unit Testing
