@@ -57,7 +57,8 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 - Unit Testing
 
 ### Midterm Lab 6: Constructor Activity
-**File Location:** `lab6/bankAccount.py`, `lab6/testMoney.py`
+**File Location:** `lab6/a/bankAccount.py` -> `lab6/a/testMoney.py`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`lab6/b/Student.py` -> `lab6/b/testStudent.py`
 - Class constructors
 - Flexible object creation
 - Unit Testing
