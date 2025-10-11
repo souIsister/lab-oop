@@ -13,7 +13,9 @@ lab-oop/
 │   ├── lab2/main.py
 │   ├── lab3/main.py
 │   ├── lab4/main.py
-│   ├── lab5/main.py
+│   ├── lab5/
+│   │   ├── main.py
+│   │   └── testUser.py
 │   └── lab6/
 │       ├── a/
 │       │   ├── bankAccount.py
@@ -51,7 +53,7 @@ lab-oop/
 - Formatted currency output
 
 ### Midterm Lab 5: Creating Class and Instantiating Objects
-**File Location:** `lab5/main.py`, `lab5/testUser.py`
+**File Location:** `lab5/main.py`->`lab5/testUser.py`
 - Profile creation and management
 - Multiple user storage
 - Unit Testing
