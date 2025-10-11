@@ -8,13 +8,13 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 
 ```
 ├── lab1/
-│   └── main.py
+│   └── Mid_Lab_1.py
 ├── lab2/
-│   └── main.py
+│   └── Mid_Lab_2.py
 ├── lab3/
-│   └── main.py
+│   └── Mid_Lab_3.py
 ├── lab4/
-│   └── main.py
+│   └── Mid_Lab_4.py
 ├── lab5/
 │   ├── main.py
 │   └── testUser.py
