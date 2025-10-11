@@ -7,8 +7,8 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 ### Project Structure
 
 ```
-├── lab1/
-│   └── Mid_Lab_1.py
+├── midterm_lab_1/
+│   └── main.py
 ├── lab2/
 │   └── Mid_Lab_2.py
 ├── lab3/
