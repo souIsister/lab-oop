@@ -7,21 +7,17 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 ### Project Structure
 
 ```
-├── MLab1/
-│   └── main.py
-├── lab2/
-│   └── Mid_Lab_2.py
-├── lab3/
-│   └── Mid_Lab_3.py
-├── lab4/
-│   └── Mid_Lab_4.py
-├── lab5/
-│   ├── main.py
-│   └── testUser.py
-├── lab6/
-│   ├── bankAccount.py
-│   └── testMoney.py
-└── README.md
+lab-oop/
+├── midterms/
+│   ├── lab1/main.py
+│   ├── lab2/main.py
+│   ├── lab3/main.py
+│   ├── lab4/main.py
+│   ├── lab5/main.py
+│   └── lab6/
+│       ├── task1/main.py
+│       └── task2/main.py
+└── finals/
 ```
 ### Midterm Lab 1: Basic Input-Output/Operators/Escape sequence and Placeholders 
 **File Location:** `lab1/main.py`
