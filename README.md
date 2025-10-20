@@ -1,14 +1,10 @@
 # AJ Baybayon  
 
 ![Your Photo](https://via.placeholder.com/150)
-
 ---
-
 ### 👨‍💻 ABOUT ME  
 A second-year computer science student with a curious mind.
-
 ---
-
 ### 🎯 AREA OF INTEREST 
 - Artificial Intelligence 
 - Database System  
@@ -19,9 +15,7 @@ A second-year computer science student with a curious mind.
 - Java 
 - Python 
 - HTML  
-
 ---
-
 ## 🐍 LABORATORY TASKS
 A collection of laboratory tasks from Object Oriented Programming using Python.
 ### Project Structure
@@ -84,17 +78,12 @@ lab-oop/
 - Class constructors
 - Flexible object creation
 - Unit Testing
-
-
 ---
-
 ### 👾 FUN FACTS  
 - I dark mode everything  
 - I type faster than I talk  
 - I prefer cats over dogs  
-
 ---
-
 ### 📫 CONTACTS  
 📘 **Facebook:** Aj Jovan Baybayon  
 📧 **Email:** abaybayon24-0391@cca.edu.ph
