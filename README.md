@@ -13,7 +13,7 @@ A second-year computer science student with a curious mind.
 - Artificial Intelligence 
 - Database System  
 - Automation 
-
+---
 ### 🗣️ PROGRAMMING LANGUAGES  
 - C 
 - Java 
