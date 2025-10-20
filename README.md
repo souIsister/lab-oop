@@ -1,6 +1,4 @@
-# AJ Baybayon  
-
-![Your Photo](https://via.placeholder.com/150)
+# AJ Baybayon  ![Your Photo](https://via.placeholder.com/150)
 ---
 ### 👨‍💻 ABOUT ME  
 A second-year computer science student with a curious mind.
