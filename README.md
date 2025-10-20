@@ -14,7 +14,7 @@ A second-year computer science student with a curious mind.
 - Python 
 - HTML  
 
-## 🐍 LABORATORY TASKS
+### 🐍 LABORATORY TASKS
 A collection of laboratory tasks from Object Oriented Programming using Python.
 ### Project Structure
 
