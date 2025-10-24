@@ -8,11 +8,22 @@ I'm Aj Jovan Baybayon, a second-year computer science student with a curious min
 - Database System  
 - Automation 
 
-### 🗣️ PROGRAMMING LANGUAGES  
-- C 
-- Java 
-- Python 
-- HTML  
+<h3 align="left">🛠 LANGUAGES</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
 ### 🐍 LABORATORY TASKS
 A collection of laboratory tasks from Object Oriented Programming using Python.
@@ -80,7 +91,7 @@ lab-oop/
 ### 👾 FUN FACTS  
 - I dark mode everything  
 - I type faster than I talk  
-- I prefer cats over dogs  
+- I love Nestlé Sterilized Milk
   
 ### 📫 CONTACTS  
 📘 **Facebook:** Aj Jovan Baybayon  
