@@ -1,6 +1,6 @@
 <img src="https://github.com/souIsister/lab-oop/blob/main/profile.png?raw=true" width="120" align="right" alt="Profile Photo">
 
-### 🧑‍🎨 ABOUT ME  
+### 🧛‍♂️ ABOUT ME  
 I'm Aj Jovan Baybayon, a second-year computer science student with a curious mind.
 
 ### 🎯 AREA OF INTEREST 
