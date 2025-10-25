@@ -31,22 +31,53 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 
 ```
 lab-oop/
+├── finals/
+│   └── read.txt
+│
 ├── midterms/
-│   ├── lab1/main.py
-│   ├── lab2/main.py
-│   ├── lab3/main.py
-│   ├── lab4/main.py
+│   ├── lab1/
+│   │   ├── Problem Statement.pdf
+│   │   └── main.py
+│   │
+│   ├── lab2/
+│   │   ├── Problem Statement.pdf
+│   │   └── main.py
+│   │
+│   ├── lab3/
+│   │   ├── Problem Statement.pdf
+│   │   └── main.py
+│   │
+│   ├── lab4/
+│   │   ├── Problem Statement.pdf
+│   │   └── main.py
+│   │
 │   ├── lab5/
+│   │   ├── Problem Statement.pdf
 │   │   ├── main.py
 │   │   └── testUser.py
+│   │
 │   └── lab6/
 │       ├── a/
+│       │   ├── Problem Statement.pdf
 │       │   ├── bankAccount.py
 │       │   └── testMoney.py
-│       └── b/
-│           ├── student.py
-│           └── testStudent.py
-└── finals/
+│       │
+│       ├── b/
+│       │   ├── Problem Statement.pdf
+│       │   ├── student.py
+│       │   └── testStudent.py
+│       │
+│       └── paired/
+│           ├── Problem Statement.pdf
+│           ├── STEP 1 & 2.pdf
+│           ├── STEP 3.PNG
+│           └── STEP 4.java
+│
+├── README.md
+├── Solo Leveling Chibi.png
+├── _config.yml
+├── index.html
+├── profile.png
 ```
 ### Midterm Lab 1: Basic Input-Output/Operators/Escape sequence and Placeholders 
 **File Location:** `lab1/main.py`
