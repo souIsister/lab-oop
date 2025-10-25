@@ -96,3 +96,6 @@ lab-oop/
 ### 📫 CONTACTS  
 📘 **Facebook:** Aj Jovan Baybayon  
 📧 **Email:** abaybayon24-0391@cca.edu.ph
+<p align="center">
+  <img src="Solo%20Leveling%20Chibi.png" alt="Solo Leveling Chibi" width="250">
+</p>
