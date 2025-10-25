@@ -80,7 +80,7 @@ lab-oop/
 ├── profile.png
 ```
 ### Midterm Lab 1: Basic Input-Output/Operators/Escape sequence and Placeholders 
-**File Location:** `lab1/main.py`
+**File Location:** `midterms/lab1/main.py`
 - Use of print statement
 - Use of Escape Sequence
 - Input Operations
@@ -88,33 +88,33 @@ lab-oop/
 - Type Casting
 
 ### Midterm Lab 2: Using Loops and Selection statements 
-**File Location:** `lab2/main.py`
+**File Location:** `midterms/lab2/main.py`
 - Countdown timer with real-time display
 - Dynamic multiplication table generator
 - Time module integration
 - Nested For Loop
 
 ### Midterm Lab 3: List Collections
-**File Location:** `lab3/main.py`
+**File Location:** `midterms/lab3/main.py`
 - Interactive game collection system using list collection 
 - Add, search, remove, and sort operations
 - Menu-driven interface
 
 ### Midterm Lab 4: Dictionary Collections
-**File Location:** `lab4/main.py`
+**File Location:** `midterms/lab4/main.py`
 - Shopping cart with item dictionary
 - Order tracking and price calculation
 - Formatted currency output
 
 ### Midterm Lab 5: Creating Class and Instantiating Objects
-**File Location:** `lab5/main.py`->`lab5/testUser.py`
+**File Location:** `midterms/lab5/main.py`->`lab5/testUser.py`
 - Profile creation and management
 - Multiple user storage
 - Unit Testing
 
 ### Midterm Lab 6: Constructor Activity
-**File Location:** `lab6/a/bankAccount.py` -> `lab6/a/testMoney.py`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`lab6/b/student.py` -> `lab6/b/testStudent.py`
+**File Location:** `midterms/lab6/a/bankAccount.py` -> `midterms/lab6/a/testMoney.py`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`midterms/lab6/b/student.py` -> `midterms/lab6/b/testStudent.py`
 - Class constructors
 - Flexible object creation
 - Unit Testing
