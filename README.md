@@ -87,7 +87,7 @@ lab-oop/
 ├── Solo Leveling Chibi.png
 ├── _config.yml
 ├── index.html
-├── profile.png
+└── profile.png
 ```
 ### Midterm Lab 1: Basic Input-Output/Operators/Escape sequence and Placeholders 
 **File Location:** `midterms/lab1/main.py`
