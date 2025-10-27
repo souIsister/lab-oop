@@ -37,33 +37,42 @@ lab-oop/
 ├── midterms/
 │   ├── lab1/
 │   │   ├── Problem Statement.pdf
+│   │   ├── Sample Output 1.PNG
+│   │   ├── Sample Output 2.PNG
 │   │   └── main.py
 │   │
 │   ├── lab2/
 │   │   ├── Problem Statement.pdf
+│   │   ├── Sample Output.PNG
 │   │   └── main.py
 │   │
 │   ├── lab3/
 │   │   ├── Problem Statement.pdf
+│   │   ├── Sample Output 1.PNG
+│   │   ├── Sample Output 2.PNG
 │   │   └── main.py
 │   │
 │   ├── lab4/
 │   │   ├── Problem Statement.pdf
+│   │   ├── Sample Output.PNG
 │   │   └── main.py
 │   │
 │   ├── lab5/
 │   │   ├── Problem Statement.pdf
+│   │   ├── Sample Output.PNG
 │   │   ├── main.py
 │   │   └── testUser.py
 │   │
 │   └── lab6/
 │       ├── a/
 │       │   ├── Problem Statement.pdf
+│       │   ├── Sample Output.PNG
 │       │   ├── bankAccount.py
 │       │   └── testMoney.py
 │       │
 │       ├── b/
 │       │   ├── Problem Statement.pdf
+│       │   ├── Sample Output.PNG
 │       │   ├── student.py
 │       │   └── testStudent.py
 │       │
@@ -71,8 +80,8 @@ lab-oop/
 │           ├── Problem Statement.pdf
 │           ├── STEP 1 & 2.pdf
 │           ├── STEP 3.PNG
-│           └── STEP 4.java
-│
+│           ├── STEP 4.java
+│           └── Sample Output.PNG
 ├── README.md
 ├── Solo Leveling Chibi.png
 ├── _config.yml
