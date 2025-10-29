@@ -32,7 +32,16 @@ A collection of laboratory tasks from Object Oriented Programming using Python.
 ```
 lab-oop/
 ├── finals/
-│   └── read.txt
+│   ├── finals1/
+│   │   └── main.py
+│   │
+│   ├── finals2/
+│   │   ├── Problem Statement.pdf
+│   │   ├── Sample Output.PNG
+│   │   ├── dancer.py
+│   │   ├── performer.py
+│   │   ├── singer.py
+│   │   └── test_class.py
 │
 ├── midterms/
 │   ├── lab1/
