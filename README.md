@@ -36,12 +36,20 @@ lab-oop/
 │   │   └── main.py
 │   │
 │   ├── finals2/
-│       ├── Problem Statement.pdf
+│   │   ├── Problem Statement.pdf
+│   │   ├── Sample Output.PNG
+│   │   ├── dancer.py
+│   │   ├── performer.py
+│   │   ├── singer.py
+│   │   └── test_class.py
+│   │
+│   └── finals3/
 │       ├── Sample Output.PNG
-│       ├── dancer.py
-│       ├── performer.py
-│       ├── singer.py
-│       └── test_class.py
+│       ├── birdCage.py
+│       ├── birds.py
+│       ├── parrot.py
+│       ├── sparrow.py
+│       └── testClass.py
 │
 ├── midterms/
 │   ├── lab1/
